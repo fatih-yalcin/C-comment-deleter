@@ -1,5 +1,5 @@
 // Author: Fatih Yalçın
-// CENG License Student
+// Computer Engineering License Student
 // Ankara University
 // June 11th 2021
 
